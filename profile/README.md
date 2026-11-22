@@ -1,132 +1,94 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/324051670?s=400&u=4f9fe3ef06727ca592ec6ed3cc9cb1ea32b5c98d&v=4" width="118" alt="Kravnex" />
+  <img src="https://avatars.githubusercontent.com/u/324051670?s=400&u=4f9fe3ef06727ca592ec6ed3cc9cb1ea32b5c98d&v=4" width="104" alt="Kravnex logo" />
 
-# KRAVNEX
+  <h1>Kravnex</h1>
 
-### Software studio building products, platforms and tools.
+  <p><strong>Games, software, and tools worth building.</strong></p>
 
-We turn ideas into software people can actually use.
+  <p>We turn ideas into useful products, interactive experiences, and the technology behind them.</p>
 
-[![Website](https://img.shields.io/badge/Website-kravnex.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kravnex.com)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/phPqbw8Tha)
-[![GitHub](https://img.shields.io/badge/GitHub-Kravnex-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kravnex)
-
-</div>
-
----
-
-## About Kravnex
-
-**Kravnex** is a software studio and product ecosystem focused on building practical, maintainable software across desktop, web, backend, game systems and automation.
-
-We work from product behavior first: what the user needs, how the system should behave, what can fail, how it is operated, and only then which technology fits the job.
-
-The goal is simple: build products that feel straightforward on the outside and stay understandable on the inside.
-
----
-
-## What We Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<b>Product platforms</b><br><br>
-User-facing applications, dashboards, account systems, administration tools and the product logic that connects them.
-
-</td>
-<td width="50%" valign="top">
-
-<b>Backend & realtime systems</b><br><br>
-APIs, authentication, permissions, events, realtime communication, queues, databases and service integrations.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<b>Desktop software</b><br><br>
-Cross-platform clients, launchers, control tools, background services and native desktop workflows.
-
-</td>
-<td width="50%" valign="top">
-
-<b>Games & automation</b><br><br>
-Server-side game systems, mods, bots, integrations and automation for repetitive or operational workflows.
-
-</td>
-</tr>
-</table>
-
----
-
-## Engineering
-
-We do not use one stack for every product. Technology is chosen around platform constraints, deployment model, maintainability and the people working on the system.
-
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+  <p>
+    <a href="https://kravnex.com"><img src="https://img.shields.io/badge/Website-kravnex.com-202632?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kravnex website" /></a>
+    <a href="https://discord.gg/phPqbw8Tha"><img src="https://img.shields.io/badge/Discord-Join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Kravnex Discord" /></a>
+  </p>
 
 </div>
 
 ---
 
-## How We Build
+### What we build
+
+We work across game development and software engineering, creating both user-facing products and the systems that make them work.
 
 <table>
-<tr>
-<td width="50%" valign="top"><b>Start with behavior</b><br><br>Define flows, permissions, invalid states and failure paths before hiding them behind implementation details.</td>
-<td width="50%" valign="top"><b>Keep boundaries clear</b><br><br>Repositories, services and modules should have an obvious responsibility and a reason to exist.</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><b>Operations are part of the product</b><br><br>Logging, moderation, administration, deployment and recovery are designed with the feature, not added after it breaks.</td>
-<td width="50%" valign="top"><b>Prefer useful complexity</b><br><br>Complex systems are sometimes necessary. Accidental complexity is not.</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Games &amp; interactive systems</strong><br /><br />
+      Gameplay features, multiplayer services, mods, and the tools that support development.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Developer tools</strong><br /><br />
+      Editors, launchers, utilities, automation, and workflows that make complex work simpler.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Software &amp; platforms</strong><br /><br />
+      Desktop applications, web products, dashboards, and the experiences around them.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Backend &amp; infrastructure</strong><br /><br />
+      APIs, authentication, realtime systems, databases, and service integrations.
+    </td>
+  </tr>
 </table>
 
----
+### How we build
 
-## GitHub
+We start with what a product needs to do, then choose the technologies that fit. Clear boundaries, predictable behavior, and maintainable systems matter as much as what users see.
 
-This organization contains public repositories, shared components and project-specific code from across the Kravnex ecosystem.
+**Less unnecessary complexity. More things that actually work.**
 
-Not every product or internal system is public. Repositories are published when exposing the code, tooling or integration is useful to developers or the community.
+### Technology
 
-[**Browse the Kravnex repositories →**](https://github.com/orgs/Kravnex/repositories)
+Our stack depends on the project, not the other way around.
 
----
+<div align="center">
 
-## Community
+  <p>
+    <img src="https://img.shields.io/badge/C%23_%2F_.NET-202632?style=for-the-badge&logo=dotnet&logoColor=AD95FF" alt="C# / .NET" />
+    <img src="https://img.shields.io/badge/TypeScript-202632?style=for-the-badge&logo=typescript&logoColor=70B4F4" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-202632?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-202632?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-202632?style=for-the-badge&logo=nodedotjs&logoColor=80CC73" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Python-202632?style=for-the-badge&logo=python&logoColor=FFD45A" alt="Python" />
+    <img src="https://img.shields.io/badge/Lua-202632?style=for-the-badge&logo=lua&logoColor=97A9FF" alt="Lua" />
+  </p>
 
-For product updates, discussions and general Kravnex community activity:
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-202632?style=for-the-badge&logo=postgresql&logoColor=80B6EB" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Redis-202632?style=for-the-badge&logo=redis&logoColor=FF7272" alt="Redis" />
+    <img src="https://img.shields.io/badge/Docker-202632?style=for-the-badge&logo=docker&logoColor=69C2F6" alt="Docker" />
+    <img src="https://img.shields.io/badge/Linux-202632?style=for-the-badge&logo=linux&logoColor=F3D862" alt="Linux" />
+    <img src="https://img.shields.io/badge/Windows-202632?style=for-the-badge&logo=windows&logoColor=78BFFF" alt="Windows" />
+  </p>
 
-- **Website:** [kravnex.com](https://kravnex.com)
-- **Discord:** [Join the Kravnex community](https://discord.gg/phPqbw8Tha)
-- **GitHub:** [github.com/Kravnex](https://github.com/Kravnex)
+</div>
+
+### Open source & repositories
+
+This organization hosts public code, shared components, and project-specific repositories. Some of our products and internal systems remain private; we publish work when it can be useful to other developers or the community.
+
+**[Explore our repositories](https://github.com/orgs/Kravnex/repositories)**
 
 ---
 
 <div align="center">
 
-### Build useful things. Keep them solid.
+  <strong>Build useful things. Keep them solid.</strong>
 
-<sub>Kravnex Studios</sub>
+  <br />
+  <sub>Kravnex Studios · <a href="https://kravnex.com">kravnex.com</a></sub>
 
 </div>

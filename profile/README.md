@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/324051670?s=400&u=a02884bd493fc0351bfe64fe41ad40ca3a85e45c&v=4" width="118" alt="Kravnex" />
+<img src="https://avatars.githubusercontent.com/u/324051670?s=400&u=4f9fe3ef06727ca592ec6ed3cc9cb1ea32b5c98d&v=4" width="118" alt="Kravnex" />
 
 # KRAVNEX
 
